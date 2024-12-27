@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\LabNumeric2-main\LabNumeric2\MyForm.h(537,100): warning C4129: : неизвестная escape-последовательность
+D:\LabNumeric2-main\LabNumeric2\MyForm.h(388,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\LabNumeric2-main\LabNumeric2\MyForm.h(685,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\LabNumeric2-main\LabNumeric2\MyForm.h(704,46): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\LabNumeric2-main\LabNumeric2\MyForm.h(699,10): warning C4101: maxDiffXX: неиспользованная локальная переменная
+  functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabNumeric2.vcxproj -> D:\LabNumeric2-main\x64\Debug\LabNumeric2.exe

@@ -1,0 +1,3 @@
+D:\LabNumeric2-main\LabNumeric2\x64\Debug\LabNumeric2.vcxproj.AssemblyReference.cache
+D:\LabNumeric2-main\LabNumeric2\x64\Debug\LabNumeric2.MyForm.resources
+D:\LabNumeric2-main\LabNumeric2\x64\Debug\LabNumeric2.vcxproj.GenerateResource.cache
