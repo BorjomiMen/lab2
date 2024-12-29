@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #include "NamesOfFunctions.h"
 #include <string>
 #include <msclr\marshal_cppstd.h>
@@ -617,7 +617,7 @@ private: System::Void comboBox3_SelectedIndexChanged(System::Object^ sender, Sys
 		chart1->Series["Численное решение v2(x)"]->Color = System::Drawing::Color::Red;
 		for (int i = 0; i < result.size(); i++) {
 			double x = result[i][0];
-			double v2_x = result[i][2]; // Численное решение с половинным шагом
+ 			double v2_x = result[i][2]; // Численное решение с половинным шагом
 			double v_x = result[i][1]; // Численное решение
 			chart1->Series["Численное решение v(x)"]->Points->AddXY(x, v_x); // Добавляем точки в численное решение с половинным шагом
 			chart1->Series["Численное решение v2(x)"]->Points->AddXY(x, v2_x);    // Добавляем точки в численное решение
